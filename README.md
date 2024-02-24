@@ -27,7 +27,7 @@ If you haven't completed the requirements, take a look at the requirements secti
 - When it comes to a malicious website / phishing page, sometimes they're made persuasive enough to trick you. But just in case, it doesn't hurt to check as cyber safety should be your primary concern when browsing online.
 
 - As you can see on the screenshots below, using NoPhish to scan a malicious website, we may receive different outputs from different services who's verdicts can be either malicious or not, however if one of the verdicts are deemed malicious, there is a chance that someone has already reported the website, therefore making it potentially malicious! See screenshots below:
-![NoPhish Introduction](images/image1.png)
+![NoPhish Introduction](images/image2.png)
 ![NoPhish Introduction](images/image3.png)
 
 - The IP reputation scanner uses the `AbuseIPDB` API to check for a specific ip address against their database. Example usage:
