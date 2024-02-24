@@ -85,3 +85,6 @@ git clone https://github.com/sytaxus/NoPhish.git
 
 3. Is the project going to be supported?
 `Yes, i'll keep updating it for now.`
+
+4. What is the `cmdsnr` checker?
+`It's a built in checker made to check for the website's age, certificate etc...`
