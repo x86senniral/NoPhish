@@ -3,6 +3,8 @@ Phishing detection tool through the use of several APIs checking against the mos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF71F&random=false&width=435&lines=Protect+Yourself.;Anti+Phishing?;Several+APIs;Instant+Scan!)](https://git.io/typing-svg)
 
+
+![NoPhish Introduction](images/image.png)
 Tested on:
 ```
 
@@ -18,7 +20,6 @@ Tested on:
 
 ```
 
-![NoPhish Introduction](images/image.png)
 
 ## Usage & Demo.
 If you haven't completed the requirements, take a look at the requirements section or https://nrelm.com/nophish for more informations.
