@@ -1,0 +1,4 @@
+requests
+prettytable
+requests_html
+whois
