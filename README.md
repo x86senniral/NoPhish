@@ -33,7 +33,7 @@ If you haven't completed the requirements, take a look at the requirements secti
 - The IP reputation scanner uses the `AbuseIPDB` API to check for a specific ip address against their database. Example usage:
 ![NoPhish Introduction](images/image4.png)
 
-- The Manual is simple, it contains basic informations as to where to get the APIs from & where to go if you face potential issues. (simply links to the github issues page.)
+- The Manual is simple, it contains basic informations as to where you can get the APIs from & place to visit if you're face potential issues.
 ![NoPhish Introduction](images/image5.png)
 
 
