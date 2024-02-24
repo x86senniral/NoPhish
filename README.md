@@ -5,7 +5,7 @@ Phishing detection tool through the use of several APIs checking against the mos
 
 
 ![NoPhish Introduction](images/image.png)
-Tested on:
+- Tested on:
 ```
 
 -------------------
